@@ -6,6 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from parallelEnv import parallelEnv
 import numpy as np
+import torch
 import Agent
 class Timer:
     def __init__(self, episode):
